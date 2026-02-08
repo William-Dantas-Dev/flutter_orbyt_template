@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "162588745678",
+    "project_id": "orbyt-template",
+    "storage_bucket": "orbyt-template.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162588745678:android:bf14fee65be2941b5dd59f",
+        "android_client_info": {
+          "package_name": "com.example.orbyt_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162588745678-4mtee8vimkudafcdls8gtq8qdlq9l5ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orbyt_template",
+            "certificate_hash": "4a78104b0c9f0330e46ecccb269fe6b5ba4c4023"
+          }
+        },
+        {
+          "client_id": "162588745678-1o1c63tkd0fht7225jo2oj6fmn9nhrkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJO5an2mYRTsq_glZtK4srqERydB13Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162588745678-1o1c63tkd0fht7225jo2oj6fmn9nhrkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162588745678-bsta516hs54vtssh9st848j9n4qs0iro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.orbytTemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
